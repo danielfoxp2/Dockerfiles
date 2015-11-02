@@ -1,6 +1,6 @@
 FROM tianon/true
 
-VOLUME /Teste/
+VOLUME /shared-volume/
 
 
 
