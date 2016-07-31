@@ -1,6 +1,7 @@
 #Exercism in Docker
 
-This configure the installation of http://exercism.io/ command line interface to improve development skills
+This configure the installation of http://exercism.io/ command line interface to improve development skills.
+
 Feel confortable to use if you think it can help you somehow.
 
 ##Suggestion on How to build it
